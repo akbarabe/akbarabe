@@ -2,10 +2,7 @@
 
 Hello my name is **Akbar Hidayat**.
 I'm looking for opportunities to improve skill in software 
-engginering development especially in front end development. I'm interested in all computer related stuff 
-like programming, machine computers, web development, and also UI/UX design. Proven 
-academic and curricular achievements, technologically adept, fast learner to provide positive 
-contribution to the organization.
+engginering development especially in front end development.
 
 <!--
 **akbarabe/akbarabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
