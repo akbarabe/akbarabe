@@ -1,20 +1,24 @@
-# Alo Sir! 
+# Hi there! 👋
 
-Hello my name is **Akbar Hidayat**.
-I'm looking for opportunities to improve skill in software 
-engginering development especially in front end development.
+Hello, my name is **Akbar Hidayat**.  
+I’m a **Software Engineering graduate** with a strong interest in **game development**, especially using **Unity** and gameplay programming.
 
-<!--
-**akbarabe/akbarabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building small game prototypes, experimenting with mechanics, and learning how players interact with systems. My recent work includes Unity-based projects such as a **VR disaster-simulation game** and a **cooperative platformer**, developed through both team-based and personal projects.
 
-Here are some ideas to get you started:
+Currently, I’m focused on growing as a **Unity Developer / Game Programmer** and actively seeking opportunities to learn and contribute in a professional game development environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Tools
+- Unity (C#)
+- Gameplay Programming
+- VR Basics
+
+---
+
+### 📌 Portfolio
+👉 https://www.notion.so/My-Portfolio-2b36ee6ff39e8062ae45c9f3cbf16dd9?source=copy_link
+
+---
+
+Feel free to explore my repositories or reach out if you’d like to collaborate or connect!
